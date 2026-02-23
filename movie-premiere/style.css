@@ -68,7 +68,13 @@ section h2 {
     text-align: justify;
 }
 
-
+#Meet-the-Cast img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
 .cast-list {
     list-style-type: none;
     padding: 0;
